@@ -1,0 +1,20 @@
+{
+  "timing": {
+    "load_data": 2.441228151321411,
+    "training": 34.07152438163757
+  },
+  "model_info": {
+    "best_iteration": 0
+  },
+  "metrics": {
+    "AUC-ROC": 0.9220084189415777,
+    "Accuracy": 0.9561813138583617,
+    "F1-Score": 0.0651685393258427,
+    "Precision": 0.03382581648522551,
+    "Recall": 0.8877551020408163
+  },
+  "inference": {
+    "latency_ms": 0.46527862548828125,
+    "throughput": 241530.85140076588
+  }
+}
